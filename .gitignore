@@ -1,0 +1,6 @@
+#alle Dateien,die auf .o ende
+*.o
+#eine bestimmte Darei, z.B. ein Executable statistics
+*~
+#das Unterverzeichnis build/ von CMake
+build/
